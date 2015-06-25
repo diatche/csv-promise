@@ -1,0 +1,23 @@
+{
+  "name": "csv-promise",
+  "version": "0.0.1",
+  "dependencies": {
+    "csv": "*",
+    "promise": "*"
+  },
+  "description": "Promisify csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diatche/csv-promise.git"
+  },
+  "author": "Pavel Diatchenko diatche@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diatche/csv-promise/issues"
+  },
+  "homepage": "https://github.com/diatche/csv-promise"
+}
